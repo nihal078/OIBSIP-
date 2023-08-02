@@ -1,0 +1,152 @@
+
+*{
+    font-family: sans-serif;
+}
+/* @media screen and (min-width: 640px)
+
+{
+    height: 130px;
+    width: 130px;
+} */
+
+
+body{
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    
+    
+}
+.navbar{
+    background-color: white !important;
+}
+
+.nav-link{
+    color: black !important;
+}
+
+.logo{
+    width: 80px;
+    height: 30px;
+    padding-left: 10px;
+
+}
+
+/* .main{
+    background-image: url(images/bg.jpg);
+} */
+
+.text{
+    color: white !important;
+    font-weight: bold;
+}
+
+#deal{
+    background-color: yellow !important;
+    border-radius: 15px;
+    margin-left: 150px;
+}
+
+.nav-link{
+    margin: 0px 20px 0px 20px;
+    color: black !important;
+}
+
+form{
+    color: rgb(114, 114, 114);
+    font-size: 10ppx;
+}
+#centre{
+    text-align: center;
+    color: rgb(114, 114, 114) !important;
+
+}
+
+.feature-icon{
+    
+    text-align: center;
+}
+
+.main-2{
+
+background-color: rgb(233, 233, 233);
+}
+
+h3{
+
+    text-align: center;
+    color: rgb(114, 114, 114) !important ;
+    
+    
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.para{
+    color: rgb(114, 114, 114) !important ;
+
+}
+
+
+.copyright{
+    color: #01BE8F;
+    text-align: center;
+    
+    
+    background-color: rgb(233, 233, 233);
+}
+
+.footer{
+    display: flex;
+    
+   
+}
+
+h4,a,.pet{
+    color: #01BE8F;
+    text-decoration: none;
+}
+
+
+p,h6{
+    color: #999999;
+    
+}
+
+hr{
+    width: 90%;
+    margin:  0px auto;
+}
+
+
+#block{
+    color: white;
+    text-align: center;
+}
+
+.block{
+    background-color: purple;
+    
+    
+}
+
+.icon{
+   padding: 30px 10px 10px 10px;
+   text-align: right;
+   color: #999999;
+   
+}
+
+.info{
+    display: flex;
+    
+}
+
+
+
+
+
+
+
+#dog{
+    color: rgb(114, 114, 114) !important ;
+}
